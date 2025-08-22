@@ -1,0 +1,1 @@
+It's intended to serve as mechanical button "pusher" , works over network. The actuator is 2 phase 4 wires linear motor , working over L298N driver and managed with esp8266. The system is adopted to work with AM Manager.
